@@ -15,7 +15,7 @@ If you find our work useful in your research, please consider citing our paper:
 ```
 @article{nie2023reason2drive,
   title={Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving},
-  author={Ming Nie and Renyuan Peng and Chunwei Wang and Xinyue Cai and Jianhua Han and Hang Xu and Li Zhang},
+  author={Nie, Ming and Peng, Renyuan and Wang, Chunwei and Cai, Xinyue and Han, Jianhua and Xu, Hang and Zhang, Li},
   booktitle={arXiv preprint},
   year={2023}
 }
