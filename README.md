@@ -12,6 +12,14 @@ This is the official implementation of [Reason2Drive: Towards Interpretable and 
 
 ## BibTeX
 If you find our work useful in your research, please consider citing our paper:
+```
+@article{nie2023reason2drive,
+  title={Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving},
+  author={Ming Nie and Renyuan Peng and Chunwei Wang and Xinyue Cai and Jianhua Han and Hang Xu and Li Zhang},
+  booktitle={arXiv preprint},
+  year={2023}
+}
+```
 
 ## Acknowledgements
 We thanks for the opensource projects.
