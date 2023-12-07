@@ -1,4 +1,5 @@
 # Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving
+### [[Paper]](https://arxiv.org/abs/2312.03661) 
 
 > [**Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving**](https://arxiv.org/abs/2312.03661),          
 > Ming Nie, Renyuan Peng, Chunwei Wang, Xinyue Cai, Jianhua Han, Hang Xu, [Li Zhang](https://lzrobots.github.io)  
