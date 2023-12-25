@@ -26,7 +26,7 @@ The benchmark exhibits a balanced distribution.
 ## Methodology
 ![img|center](./img/pipeline.png)
 The pipeline of our proposed framework.
-The highlighted yellow box and red curve in the perception result image respectively represent the visualization of prediction location and motion.
+The highlighted yellow box and red curve in the perception result image respectively represent the visualization of predicted location and motion.
 
 ## TODO
 - [ ] Release benchmark
