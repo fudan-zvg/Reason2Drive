@@ -28,8 +28,17 @@ The benchmark exhibits a balanced distribution.
 The pipeline of our proposed framework.
 The highlighted yellow box and red curve in the perception result image respectively represent the visualization of predicted location and motion.
 
+## Data Preparation
+### Download links
+We provide download links of reason2drive_mini in both google drive and baidu disk for facility:
+
+Google drive: [link](https://drive.google.com/file/d/16IInbGqEzg4UcNhTlxVA9tS6tOTi4wet/view?usp=sharing)
+
+Baidu disk: [link](https://pan.baidu.com/s/1tzAuaB42RkguYM863zo6Jw?pwd=6g94)
+
 ## TODO
-- [ ] Release benchmark
+- [x] Release benchmark (mini-version)
+- [ ] Release benchmark (full-version)
 - [ ] Release evaluation code
 - [ ] Release training code
 
